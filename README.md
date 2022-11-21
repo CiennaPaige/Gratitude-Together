@@ -14,6 +14,8 @@ This app consists of three parts:
 
   ● A self and gratitude awareness portion. This feature will include a wristband that tracks happiness trends throughout the day and creates a chart where users can view these trends. Our app will also allow the user to create private gratitude entries and they will have the option to use one of our gratitude prompts or journals without a prompt.
 
+You can see the figma wireframe [here](https://www.figma.com/file/4JfHQmf2q5e6Wbxnueb9Q8/Gratitude-UX-Wire-Frame?node-id=107%3A4278)
+
 You can learn more about the project [here](https://medium.com/berea-hcc/gratitude-together-793e123c7fb).
 
 ![image](https://user-images.githubusercontent.com/78549260/197444142-cc5e686b-f88c-4a14-9166-d4421f0f45a5.png) ![image](https://user-images.githubusercontent.com/78549260/197444190-330be35f-8b56-4fde-a098-82cb0ac523a5.png) ![image](https://user-images.githubusercontent.com/78549260/197444199-c37742e3-e161-4334-97ca-f97780df3d85.png)
